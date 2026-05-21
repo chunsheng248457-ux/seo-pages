@@ -1,0 +1,2 @@
+# seo-pages
+SEO content
